@@ -1,0 +1,3 @@
+Pada praktikum IoT 5 ini, saya menggunakan 2 device yaitu lampu dan ac, kemudian 1 sensor pendeteksi gerak, 1 end device PC, 1 switch PT dan 1 server. 
+Dan pada simulasi arsitektur IoT ini saya menggunakan Registration Server dengan user: feby dan password: feby.
+Nantinya sensor akan menedeteksi jika terjadi pergerakan maka lampu dan ac akan on dan jika sensor tidak mendeteksi adanya pergerakan maka lampu dan ac akan off.
